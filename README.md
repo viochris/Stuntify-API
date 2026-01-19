@@ -1,2 +1,9 @@
-# Stuntify-API
-The high-performance backend engine for Stuntify. Built with FastAPI to serve real-time machine learning predictions for early childhood stunting risk assessment. Deployed on Hugging Face Spaces.
+---
+title: Stunting API
+emoji: 🧠
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
